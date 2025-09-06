@@ -5,7 +5,6 @@ EcoFinds is a **web-based prototype** built for the *Odoo x NMIT Hackathon ’25
 It promotes **sustainable consumption** by enabling users to buy and sell pre-owned goods, reducing waste, and extending product lifecycles.
 
 ### 🔑 Authentication  
-![Home Page](./assets/home page.png)
 ---
 
 ## 🚀 Features  
